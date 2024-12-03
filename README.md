@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softwaredev-ds&label=Profile%20views&color=0e75b6&style=flat" alt="softwaredev-ds" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Kontaktier mich doch ganz einfach per E-Mail: d.schlachtberger@outlook.com</h3>
 <p align="left">
 </p>
 

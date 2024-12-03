@@ -1,4 +1,4 @@
-<h1 align="center">Hallo und willkommen 👋 <br> mein Name ist Dennis Schlachtberger</h1>
+<h1 align="center">Hallo und willkommen 👋 <br> Mein Name ist Dennis Schlachtberger</h1>
 <h3 align="center">Ich bin Softwaredeveloper aus Leidenschaft.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softwaredev-ds&label=Profile%20views&color=0e75b6&style=flat" alt="softwaredev-ds" /> </p>

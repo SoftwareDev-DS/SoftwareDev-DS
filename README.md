@@ -3,7 +3,7 @@
 
 
 
-<h3 align="left">Kontaktier mich doch ganz einfach per E-Mail: <a href="mailto:d.schlachtberger@outlook.com">📧 </a></h3>
+<h3 align="left">Kontaktier mich doch ganz einfach per E-Mail: <a href="mailto:d.schlachtberger@outlook.com"> klicke hier.</a></h3>
 <p align="left">
 </p>
 

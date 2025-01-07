@@ -1,5 +1,5 @@
 <h1 align="center">Hallo und willkommen 👋 <br> Mein Name ist Dennis Schlachtberger</h1>
-<h3 align="center">Ich bin Softwaredeveloper aus Leidenschaft.</h3>
+<h3 align="left">Ich bin Softwaredeveloper aus Leidenschaft.</h3>
 
 
 

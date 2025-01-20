@@ -2,6 +2,52 @@
 <h3 align="left">Ich bin Softwaredeveloper aus Leidenschaft.</h3>
 
 
+## 💼 Meine Schwerpunkte  
+
+### 🌐 Webentwicklung & Apps  
+Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologien gearbeitet:  
+
+**Frontend**:  
+- Angular  
+- Vue  
+- HTML5, CSS3, SCSS  
+- TypeScript, JavaScript  
+
+**Libraries**:  
+- Bootstrap  
+- Angular Materials  
+- RxJS  
+- AngularFire  
+- Angular Reactive Forms  
+- Angular CLI  
+- Angular Flex-Layout  
+- Google Firebase  
+
+### 🛠️ Tools & Umgebungen  
+- **Entwicklungsumgebungen**: Visual Studio Code, IntelliJ  
+- **Backends**: Node.js, Spring Boot, Java  
+
+---
+
+## 🚀 Meine Projekte  
+
+### 📌 Essensgutschein-App  
+Eine selbst entwickelte Applikation zur Erfassung und Erstellung von Essensgutscheinen – mein Abschlussprojekt mit der Note **1,3**.  
+Von der Planung über die Organisation bis hin zur Qualitätssicherung: alles eigenständig umgesetzt.  
+
+### 📌 CV-Analyzer  
+Weiterentwicklung eines Programms zur Analyse von Lebensläufen, das intern genutzt wird.  
+
+### 📌 Individual-Webseiten  
+Entwicklung von maßgeschneiderten Websites mit modernen Frameworks und Technologien.  
+
+---
+
+## 🌱 Ausbildung & Coaching  
+
+Schon früh habe ich erkannt, dass mir die Organisation und Unterstützung von Teams liegt.  
+Deshalb habe ich den **Ausbilderschein** gemacht und bisher erfolgreich **sieben Auszubildende** durch ihre Ausbildung und Prüfungen begleitet.  
+
 
 <h3 align="left">Kontaktier mich doch ganz einfach per E-Mail: <a href="mailto:d.schlachtberger@outlook.com"> klicke hier.</a></h3>
 <p align="left">

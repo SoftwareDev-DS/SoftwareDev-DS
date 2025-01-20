@@ -1,5 +1,4 @@
 <h1 align="center">Hallo und willkommen 👋 <br> Mein Name ist Dennis Schlachtberger</h1>
-<h3 align="left">Ich bin Softwaredeveloper aus Leidenschaft.</h3>
 
 
 ## 💼 Meine Schwerpunkte  
@@ -29,19 +28,6 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 
 ---
 
-## 🚀 Meine Projekte  
-
-### 📌 Essensgutschein-App  
-Eine selbst entwickelte Applikation zur Erfassung und Erstellung von Essensgutscheinen – mein Abschlussprojekt mit der Note **1,3**.  
-Von der Planung über die Organisation bis hin zur Qualitätssicherung: alles eigenständig umgesetzt.  
-
-### 📌 CV-Analyzer  
-Weiterentwicklung eines Programms zur Analyse von Lebensläufen, das intern genutzt wird.  
-
-### 📌 Individual-Webseiten  
-Entwicklung von maßgeschneiderten Websites mit modernen Frameworks und Technologien.  
-
----
 
 ## 🌱 Ausbildung & Coaching  
 

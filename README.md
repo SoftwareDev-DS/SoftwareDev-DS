@@ -5,7 +5,7 @@
 ## 💼 Meine Schwerpunkte  
 
 ### 🌐 Webentwicklung & Apps  
-Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologien gearbeitet:  
+Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologien am meisten gearbeitet:  
 
 **Frontend**:  
 - Angular  

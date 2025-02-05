@@ -5,14 +5,15 @@
 
 ### 🌐 Webentwicklung & Apps  
 Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologien am meisten gearbeitet:  
+## 🚀 Technologien & Tools  
 
-**Frontend**:  
+### 🎨 Frontend  
 - Angular  
-- Vue  
+- Vue.js  
 - HTML5, CSS3, SCSS  
 - TypeScript, JavaScript  
 
-**Libraries**:  
+### 📚 Libraries  
 - Bootstrap  
 - Angular Materials  
 - RxJS  
@@ -22,9 +23,23 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 - Angular Flex-Layout  
 - Google Firebase  
 
+### ⚙️ Backend  
+- Node.js  
+- Spring Boot  
+- Java  
+
 ### 🛠️ Tools & Umgebungen  
-- **Entwicklungsumgebungen**: Visual Studio Code, IntelliJ  
-- **Backends**: Node.js, Spring Boot, Java  
+- Visual Studio Code  
+- IntelliJ  
+
+### 🔥 Fullstack  
+- Frontend- & Backend-Entwicklung mit modernen Technologien  
+- Integration von Datenbanken & Schnittstellen  
+
+### 📊 Projektmanagement & SEO  
+- Agile Methoden (SCRUM, Kanban)  
+- Projektorganisation & Teamkoordination  
+- SEO-Optimierung für bessere Sichtbarkeit  
 
 ---
 

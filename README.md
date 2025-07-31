@@ -9,9 +9,10 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 
 ### 🎨 Frontend  
 - Angular  
-- Vue.js  
+- Vue.js
+- React
 - HTML5, CSS3, SCSS  
-- TypeScript, JavaScript  
+- TypeScript & JavaScript  
 
 ### 📚 Libraries  
 - Bootstrap  
@@ -24,7 +25,9 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 - Google Firebase  
 
 ### ⚙️ Backend  
-- Node.js  
+- Node.js
+- node.js
+- next.js
 - Spring Boot  
 - Java  
 

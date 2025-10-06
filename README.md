@@ -25,7 +25,6 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 - Google Firebase  
 
 ### ⚙️ Backend  
-- Node.js
 - node.js
 - next.js
 - Spring Boot  
@@ -41,7 +40,7 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 
 ### 📊 Projektmanagement & SEO  
 - Agile Methoden (SCRUM, Kanban)  
-- Projektorganisation & Teamkoordination  
+- Projektorganisation & selbstständige Planung  
 - SEO-Optimierung für bessere Sichtbarkeit  
 
 ---

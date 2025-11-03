@@ -19,6 +19,8 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 - next.js
 
 ### 📚 Libraries  
+- Material UI
+- Bootstrap
 - Axios  
 - Vite
 - Vuex
@@ -26,7 +28,6 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 - RxJS
 - Redux
 - AngularFire  
-- Material UI
 - Google Firebase  
 
 ### 🔥 Fullstack  

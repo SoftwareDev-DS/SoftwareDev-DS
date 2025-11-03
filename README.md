@@ -41,7 +41,7 @@ Ich habe bisher sehr viele Webseiten & Individualsoftware entwickelt und dabei m
 ## 🧠 Hard Skills  
 - **Responsive Webdesign** & UX/UI-Konzeption  
 - **Architektur von Single-Page-Applications (SPA)**  
-- **Versionsverwaltung** mit Git / GitHub / GitLab  
+- **Versionsverwaltung** mit Git / GitHub  
 - **Datenbankintegration** (NoSQL & SQL)  
 - **Testing** (Unit-, Integration- & End-to-End-Tests)  
 - **Cloud-Services & Hosting** (Firebase, Vercel, Netlify, AWS)  

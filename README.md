@@ -3,16 +3,16 @@
 
 ## 💼 Meine Schwerpunkte  
 
-### 🌐 Webentwicklung & Apps  
-Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologien am meisten gearbeitet:  
+### 🌐 Webentwicklung & Software
+Ich habe bisher sehr viele Webseiten & Individualsoftware entwickelt und dabei mit folgenden Technologien am meisten gearbeitet:  
 ## 🚀 Technologien & Tools  
 
 ### 🎨 Frontend  
-- Angular  
-- Vue
-- React
-- HTML5, CSS3, SCSS  
-- TypeScript & JavaScript
+- **Angular**  
+- **Vue.js**  
+- **React**  
+- **HTML5**, **CSS3**, **SCSS**  
+- **TypeScript** & **JavaScript**
   
 ### ⚙️ Backend  
 - node.js
@@ -21,7 +21,6 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 ### 📚 Libraries  
 - Material UI
 - Bootstrap
-- Axios  
 - Vite
 - Vuex
 - Vuetify
@@ -39,8 +38,24 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 - Projektorganisation & selbstständige Planung  
 - SEO-Optimierung für bessere Sichtbarkeit  
 
----
-
+## 🧠 Hard Skills  
+- **Responsive Webdesign** & UX/UI-Konzeption  
+- **Architektur von Single-Page-Applications (SPA)**  
+- **Versionsverwaltung** mit Git / GitHub / GitLab  
+- **Datenbankintegration** (NoSQL & SQL)  
+- **Testing** (Unit-, Integration- & End-to-End-Tests)  
+- **Cloud-Services & Hosting** (Firebase, Vercel, Netlify, AWS)  
+- **API-Design & Integration**  
+- **Performance-Optimierung & Code-Refactoring**
+- 
+## 💬 Soft Skills  
+-  Analytisches & lösungsorientiertes Denken  
+-  Teamfähigkeit & interdisziplinäre Zusammenarbeit  
+-  Kommunikationsstärke & Kundenorientierung  
+-  Eigeninitiative & Verantwortungsbewusstsein  
+-  Zeitmanagement & Priorisierung  
+-  Kreativität bei der Lösungsfindung  
+-  Lernbereitschaft & technisches Verständnis  
 
 ## 🌱 Ausbildung & Coaching  
 

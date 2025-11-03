@@ -9,7 +9,7 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 
 ### 🎨 Frontend  
 - Angular  
-- Vue.js
+- Vue
 - React
 - HTML5, CSS3, SCSS  
 - TypeScript & JavaScript
@@ -17,22 +17,17 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 ### ⚙️ Backend  
 - node.js
 - next.js
-- Spring Boot  
-- Java  
 
 ### 📚 Libraries  
-- Bootstrap  
-- Angular Materials  
-- RxJS  
+- Axios  
+- Vite
+- Vuex
+- Vuetify
+- RxJS
+- Redux
 - AngularFire  
-- Angular Reactive Forms  
-- Angular CLI  
-- Angular Flex-Layout  
+- Material UI
 - Google Firebase  
-
-### 🛠️ Tools & Umgebungen  
-- Visual Studio Code  
-- IntelliJ  
 
 ### 🔥 Fullstack  
 - Frontend- & Backend-Entwicklung mit modernen Technologien  

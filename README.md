@@ -13,7 +13,7 @@ Ich habe bisher Individualsoftware entwickelt und dabei mit folgenden Technologi
 - React
 - HTML5, CSS3, SCSS  
 - TypeScript & JavaScript
-- 
+  
 ### ⚙️ Backend  
 - node.js
 - next.js

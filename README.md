@@ -47,7 +47,7 @@ Ich habe bisher sehr viele Webseiten & Individualsoftware entwickelt und dabei m
 - **Cloud-Services & Hosting** (Firebase, Vercel, Netlify, AWS)  
 - **API-Design & Integration**  
 - **Performance-Optimierung & Code-Refactoring**
-- 
+  
 ## 💬 Soft Skills  
 -  Analytisches & lösungsorientiertes Denken  
 -  Teamfähigkeit & interdisziplinäre Zusammenarbeit  

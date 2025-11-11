@@ -1,4 +1,4 @@
-<h1 align="center">Hallo und willkommen 👋 <br> Mein Name ist Dennis Schlachtberger</h1>
+<h1 align="center">Hello there 👋</h1>
 
 
 ## 💼 Meine Schwerpunkte  
